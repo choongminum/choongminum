@@ -27,6 +27,10 @@ B.S. in Physics, 06/2009 – 12/2012<br>
 University of Washington, Seattle, WA<br>
 
 ### Publications
+Progress on Modularizing OpenGGCM and Supporting Coupling with Standalone Models, 12/2024<br>
+Kai Germaschewski, Liang Wang, James McClung, Choong Min Um, Dongacan Su Ozturk, Chuanfei Dong, Hyunju KIM Connor, Jing Liao, Joachim Raeder<br>
+AGU24<br>
+
 Gravitational Waves from First-Order Phase Transitions: Ultra-Supercooled Transition and the Fate of Relativistic Shocks, 10/2019<br>
 Ryusuke Jinno, Hyeonseok Seong, Masahiro Takimoto, Choong Min Um<br>
 JCAP10(2019)033<br>
