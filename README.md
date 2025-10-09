@@ -4,7 +4,7 @@
 choongmin.um@unh.edu
 
 ### Summary
-I am a Ph.D. student in physics and an ISTQB-certified software engineer. My research interests include computational plasma physics. I strive for a strong body, a sharp mind, and a compassionate heart.
+I am a Ph.D. student in physics and an ISTQB-certified software engineer. My research interests include computational plasma physics. I strive for a strong body, a sharp mind, and a compassionate soul.
 
 ### Positions
 Graduate Assistant, 08/2021 - Present<br>
