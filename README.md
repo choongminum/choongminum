@@ -27,6 +27,10 @@ B.S. in Physics, 06/2009 – 12/2012<br>
 University of Washington, Seattle, WA<br>
 
 ### Publications
+Understanding the Role of Ionospheric Conductances in Generating Mesoscale Geomagnetically Induced Currents (GICs) Using the OpenGGCM-CTIM Model<br>
+Choong Min Um, Kai Germaschewski, Liang Wang<br>
+GEM26<br>
+
 Progress on Modularizing OpenGGCM and Supporting Coupling with Standalone Models, 12/2024<br>
 Kai Germaschewski, Liang Wang, James McClung, Choong Min Um, Dongacan Su Ozturk, Chuanfei Dong, Hyunju KIM Connor, Jing Liao, Joachim Raeder<br>
 AGU24<br>
